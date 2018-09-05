@@ -3,3 +3,4 @@
 
 # ignore datasets
 *.csv
+*.data
